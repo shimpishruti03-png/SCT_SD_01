@@ -1,4 +1,4 @@
-# SCT_SD_01
+# SCT_SD_1
 A simple Temperature Converter App built using Python and Tkinter. This GUI-based program converts temperatures between Celsius, Fahrenheit, and Kelvin. Ideal for beginners learning Python GUI development.
 # 🌡️ Temperature Converter using Python and Tkinter
 
