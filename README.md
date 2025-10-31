@@ -12,8 +12,6 @@ It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and
 ✅ Easy-to-use **Tkinter GUI**  
 ✅ Real-time conversion  
 ✅ Lightweight and beginner-friendly  
-✅ Works on all operating systems (Windows, macOS, Linux)
-
 
 
  Technologies Used
